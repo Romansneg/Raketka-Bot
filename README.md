@@ -34,7 +34,7 @@
       <div class="button-game">
         <button class="get-signal" id="get-signal">ПОЛУЧИТЬ СИГНАЛ</button>
         <button class="get-signal-two deactivate" id="get-signal-two">ПОЛУЧИТЬ СИГНАЛ</button>
-        <a href="https://1wrjmw.com/casino/list?open=register&p=dy0a" class="game-here" target="_blank">ИГРА ТУТ</a>
+        <a href="https://1wrmwg.com/v3/lucky-jet-updated?p=ud69" class="game-here" target="_blank">ИГРА ТУТ</a>
       </div>
     </div>
   </div>
